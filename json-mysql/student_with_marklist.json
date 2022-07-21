@@ -1,0 +1,196 @@
+{
+    "STUDENTS": [
+        {
+            "ID": 1,
+            "NAME": "SURESH",
+            "AGE": 28,
+            "GENDER": "MALE",
+            "CITY": "HOSUR",
+            "CONTACT": 2400048352,
+            "COURSE": "BCA"
+        },
+        {
+            "ID": 2,
+            "NAME": "HARI",
+            "AGE": 11,
+            "GENDER": "MALE",
+            "CITY": "VELUR",
+            "CONTACT": 2456896352,
+            "COURSE": "B.COM"
+        },
+        {
+            "ID": 3,
+            "NAME": "DIVYA",
+            "AGE": 19,
+            "GENDER": "FEMALE",
+            "CITY": "SALEM",
+            "CONTACT": 6896352,
+            "COURSE": "B.Sc"
+        },
+        {
+            "ID": 4,
+            "NAME": "RAVI",
+            "AGE": 20,
+            "GENDER": "MALE",
+            "CITY": "COIMBATORE",
+            "CONTACT": 2456895555,
+            "COURSE": "B.Sc"
+        },
+        {
+            "ID": 5,
+            "NAME": "DEVI",
+            "AGE": 24,
+            "GENDER": "FEMALE",
+            "CITY": "HOSUR",
+            "CONTACT": 2450000052,
+            "COURSE": "BBA"
+        },
+        {
+            "ID": 6,
+            "NAME": "MANI",
+            "AGE": 22,
+            "GENDER": "MALE",
+            "CITY": "VELUR",
+            "CONTACT": 5896478596,
+            "COURSE": "BBA"
+        },
+        {
+            "ID": 7,
+            "NAME": "HARSATH",
+            "AGE": 38,
+            "GENDER": "MALE",
+            "CITY": "HOSUR",
+            "CONTACT": 2400048352,
+            "COURSE": "B.Sc"
+        },
+        {
+            "ID": 8,
+            "NAME": "SURIYA",
+            "AGE": 13,
+            "GENDER": "MALE",
+            "CITY": "KARUR",
+            "CONTACT": 2456896352,
+            "COURSE": "BCA"
+        },
+        {
+            "ID": 9,
+            "NAME": "SARANYA",
+            "AGE": 18,
+            "GENDER": "FEMALE",
+            "CITY": "SALEM",
+            "CONTACT": 6896352,
+            "COURSE": "B.COM"
+        },
+        {
+            "ID": 10,
+            "NAME": "SAMY",
+            "AGE": 21,
+            "GENDER": "MALE",
+            "CITY": "COIMBATORE",
+            "CONTACT": 2456895555,
+            "COURSE": "B.LIT"
+        }
+    ],
+    "MARKS": [
+        {
+            "MID": 1,
+            "ID": 1,
+            "TAMIL": 200,
+            "ENGLISH": 200,
+            "MATHS": 200,
+            "PHYSICS": 200,
+            "CHEMISTRY": 200,
+            "BIOLOGY": 200
+        },
+        {
+            "MID": 2,
+            "ID": 2,
+            "TAMIL": 180,
+            "ENGLISH": 98,
+            "MATHS": 102,
+            "PHYSICS": 158,
+            "CHEMISTRY": 85,
+            "BIOLOGY": 70
+        },
+        {
+            "MID": 3,
+            "ID": 3,
+            "TAMIL": 170,
+            "ENGLISH": 184,
+            "MATHS": 198,
+            "PHYSICS": 193,
+            "CHEMISTRY": 190,
+            "BIOLOGY": 198
+        },
+        {
+            "MID": 4,
+            "ID": 4,
+            "TAMIL": 80,
+            "ENGLISH": 94,
+            "MATHS": 58,
+            "PHYSICS": 69,
+            "CHEMISTRY": 78,
+            "BIOLOGY": 69
+        },
+        {
+            "MID": 5,
+            "ID": 5,
+            "TAMIL": 200,
+            "ENGLISH": 200,
+            "MATHS": 200,
+            "PHYSICS": 200,
+            "CHEMISTRY": 200,
+            "BIOLOGY": 200
+        },
+        {
+            "MID": 6,
+            "ID": 6,
+            "TAMIL": 150,
+            "ENGLISH": 194,
+            "MATHS": 155,
+            "PHYSICS": 152,
+            "CHEMISTRY": 111,
+            "BIOLOGY": 158
+        },
+        {
+            "MID": 7,
+            "ID": 7,
+            "TAMIL": 160,
+            "ENGLISH": 99,
+            "MATHS": 152,
+            "PHYSICS": 169,
+            "CHEMISTRY": 120,
+            "BIOLOGY": 120
+        },
+        {
+            "MID": 8,
+            "ID": 8,
+            "TAMIL": 180,
+            "ENGLISH": 184,
+            "MATHS": 108,
+            "PHYSICS": 133,
+            "CHEMISTRY": 170,
+            "BIOLOGY": 98
+        },
+        {
+            "MID": 9,
+            "ID": 9,
+            "TAMIL": 200,
+            "ENGLISH": 200,
+            "MATHS": 200,
+            "PHYSICS": 200,
+            "CHEMISTRY": 200,
+            "BIOLOGY": 200
+        },
+        {
+            "MID": 10,
+            "ID": 10,
+            "TAMIL": 60,
+            "ENGLISH": 56,
+            "MATHS": 59,
+            "PHYSICS": 53,
+            "CHEMISTRY": 60,
+            "BIOLOGY": 74
+        }
+    ]
+}
